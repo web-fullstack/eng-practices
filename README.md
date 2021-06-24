@@ -1,33 +1,28 @@
 # Google 工程实践文档
 
-Google has many generalized engineering practices that cover all languages and
-all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
-projects or other organizations would benefit from this knowledge, so we work to
-make it available publicly when possible.
+Google 有许多通用的工程实践，涵盖所有语言和所有项目。这些文档代表了我们在不同方面的集体经验
+我们随着时间的推移开发的最佳实践。开源项目或其他组织将从这些知识中受益是有可能的，因此我们致力于
+尽可能公开。
 
-Currently this contains the following documents:
+目前这包含以下文档：
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
-    separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+*   [Google 的代码审查指南](review/index.md), 这实际上是两组独立的文档：
+    *   [代码审查者指南](review/reviewer/index.md)
+    *   [代码开发者指南](review/developer/index.md)
 
-## Terminology
+## 术语
 
-There is some Google-internal terminology used in some of these documents, which
-we clarify here for external readers:
+其中一些文档中使用了一些 Google 内部术语，我们在此为外部读者澄清：
 
-*   **CL**: Stands for "changelist", which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change", "patch", or "pull-request".
-*   **LGTM**: Means "Looks Good to Me". It is what a code reviewer says when
-    approving a CL.
+*   **CL**: 代表 "changelist"，这意味着已提交给版本控制或正在进行代码审查的一个自包含更改。
+    其他组织通常将此称为 "change", "patch",或 "pull-request"。
 
-## License
+*   **LGTM**: 意思是 "Looks Good to Me". 这是代码审查员在批准一个 CL 时所说的话。
 
-The documents in this project are licensed under the
-[CC-By 3.0 License](LICENSE), which encourages you to share these documents. See
-<https://creativecommons.org/licenses/by/3.0/> for more details.
+## 证书
 
-<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+本项目中的文档已获得许可[CC-By 3.0 License](证书),这鼓励您去分享这些文档。查看 <https://creativecommons.org/licenses/by/3.0/> 了解更多详情。
+
+<a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" />
+</a>
