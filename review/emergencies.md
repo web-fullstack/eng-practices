@@ -1,4 +1,4 @@
-# Emergencies
+# 紧急情况
 
 Sometimes there are emergency CLs that must pass through the entire code review
 process as quickly as
