@@ -1,4 +1,4 @@
-# How to do a code review
+# 如何进行一次代码审查
 
 The pages in this section contain recommendations on the best way to do code
 reviews, based on long experience. All together they represent one complete
