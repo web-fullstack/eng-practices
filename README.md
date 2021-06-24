@@ -21,7 +21,7 @@ Google 有许多通用的工程实践，涵盖所有语言和所有项目。这�
 
 ## 证书
 
-本项目中的文档已获得许可[CC-By 3.0 License](证书),这鼓励您去分享这些文档。查看 <https://creativecommons.org/licenses/by/3.0/> 了解更多详情。
+本项目中的文档已获得许可证书[CC-By 3.0 License](证书),这鼓励您去分享这些文档。查看 <https://creativecommons.org/licenses/by/3.0/> 了解更多详情。
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" />
