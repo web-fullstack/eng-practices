@@ -6,9 +6,8 @@ with higher-quality results. You don't have to read them all, but they are
 intended to apply to every Google developer, and many people have found it
 helpful to read the whole set.
 
--   [Writing Good CL Descriptions](cl-descriptions.md)
--   [Small CLs](small-cls.md)
--   [How to Handle Reviewer Comments](handling-comments.md)
+-   [编写好的 CL 描述](cl-descriptions.md)
+-   [少量 CLs](small-cls.md)
+-   [如何处理审查者的评论](handling-comments.md)
 
-See also [How to Do a Code Review](../reviewer/index.md), which gives detailed
-guidance for code reviewers.
+阅读 [如何进行一次代码审查](../reviewer/index.md), 它为代码审查者提供了详细的指导。
