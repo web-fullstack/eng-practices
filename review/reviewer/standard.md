@@ -94,7 +94,7 @@ indicate that it's not mandatory for the author to resolve it in this CL.
 In any conflict on a code review, the first step should always be for the
 developer and reviewer to try to come to consensus, based on the contents of
 this document and the other documents in [The CL Author's Guide](../developer/)
-and this [Reviewer Guide](index.md).
+and this [Reviewer Guide](readme.md).
 
 When coming to consensus becomes especially difficult, it can help to have a
 face-to-face meeting or a video conference between the reviewer and the author, instead of

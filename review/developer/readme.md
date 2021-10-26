@@ -12,4 +12,4 @@ helpful to read the whole set.
 -   [少量 CLs](small-cls.md)
 -   [如何处理审查者的评论](handling-comments.md)
 
-阅读 [如何进行一次代码审查](../reviewer/index.md), 它为代码审查者提供了详细的指导。
+阅读 [如何进行一次代码审查](../reviewer/readme.md), 它为代码审查者提供了详细的指导。
